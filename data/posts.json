@@ -1,0 +1,50 @@
+[
+    {
+        "id": "402314cd-8aa5-44f5-a85d-43ee348cfdef",
+        "date": "Wednesday, June 13th 2018",
+        "title": "Well, doesn't that look NICE!",
+        "content": "Today I am learning the basics of CSS on Khan Academy, so my blog is starting to look nice! I still have a long way to go, I look at production websites and I am a little bit in awe! There are some beautiful websites out there. But, it is very exciting to know that someday I will be able to make sites just as beautiful!"
+    },
+    {
+        "id": "a358caa4-e45a-48ff-81b0-8c7538f007ae",
+        "date": "Wednesday, June 13th 2018",
+        "title": "Meet my new best friend!",
+        "content": "As I am learning to become a developer, I can already tell that Google is going to be my absolute best friend! It is such an amazing resource for someone who is starting on this career path. Thank goodness for all those folks out there who share their wisdom on the internet!"
+    },
+    {
+        "id": "188e5c42-f045-4494-be41-a80a5ca11216",
+        "date": "Wednesday, June 20th 2018",
+        "title": "Hello JavaScript!",
+        "content": "I am starting to learn Javascript, and the world is my oyster! Learning to program is so fun, because the possiblities are endless! I see the technological world in a whole new light. The other day, I was sitting in our living room and I saw our Nest thermostat. It was like seeing it for the first time! Never before had I considered how the thermostat worked. Now, all of the sudden I was picturing the coding fundamentals that must be working behind the scenes RIGHT NOW to make my air conditioning turn on as it became warmer outside. How cool! No pun intended :) So far, I am liking Javascript. I am seeing lots of similarities to Python in terms of the basic logic. (Previous to this, I spent some months learning Python on my own.) I made a super simple and silly animation today, but I was sending it to everyone because I was so excited!"
+    },
+    {
+        "id": "f93b0828-7cae-4bbd-bff1-739ef871f394",
+        "date": "Monday, June 25th 2018",
+        "title": "One fish, Two fish, Red fish, Blue fish!",
+        "content": "Functions! Today I was learning all about functions on Khan Academy. They use a cute way to teach you how to create a new function, a function to draw a fish! I had a lot of fun doing this exercise, and again I feel as though I can see a whole new world! With everything that I am learning about coding and programming, I see so many opportunities and endless possibilities. Today I am drawing fish, what could I be doing tomorrow?"
+    },
+    {
+        "id": "d7c0b087-9ded-4d43-8bd5-cdf0e0671c81",
+        "date": "Monday, July 9th 2018",
+        "title": "Try, try, try, again! And again. And again...",
+        "content": "Wow! Today was tough! I have finished the Khan Academy Intro to JavaScript course, so I am doing some challenges on CodeWars to try and learn more and engage with JavaScript. Today I was working on a challenge to create a game called 'Pong.' The game involved a ball and two paddles, and the player moved their paddle to hit the ball. If a player missed the ball, their opponent got a point. It seemed like an easy enough challenge to complete, but I worked on it for HOURS! There were several moments when I almost gave up, but then a new idea would come to me and I would sit back down to try it. I finally came up with some code I thought might work, I hit the 'Run' button, and... errors! I extracted each piece of my code, tested it individually to see if it was working, found my errors, and all the sudden, BAM!, it worked! I was so excited I wooped, stood up and clapped! It was the best feeling! Definitely worth all the time I had put into the challenge to have that satisfaction. Here is the CodeWars challenge I was working on, and my solution."
+    },
+    {
+        "id": "bd72d475-fca7-4c37-98f0-28f191a1bf21",
+        "date": "Monday, July 23rd 2018",
+        "title": "GalvaNICE!",
+        "content": "I just got back from my first night of a course through Galvanize, and it was NICE! I am taking a JavaScript fundamentals course by Galvanize. Since I have been doing learning all on my own at home, I was anxious to see how a classroom environment would feel. I am happy to report that it was great! Having instructors and classmates learning alongside me was a real treat, if I get stuck (or should I say 'when I get stuck'!) there are all these resources around me to help. Most of what we learned tonight, on the first night, I was pretty familiar with. But it was great to learn about it from another perspective! The instructor, Wes, seemed very knowledgeable, helpful, and engaging. The class was two hours, and it flew by! I was particularly happy to see that Wes talked about the best ways of retaining new information. It is not by only listening, taking notes, etc; it is by DOING! I am very glad to see that Galvanize utilizes these principles. Being in this course, and enjoying it so much already, really makes me think that I would enjoy working as a programmer so, so much!"
+    },
+    {
+        "id": "3a9854b2-3de1-46f2-939b-2a6ffea0ea86",
+        "date": "Wednesday, November 7th 2018",
+        "title": "Introduction",
+        "content": "My name is Celia and I am a teacher turned engineer! I taught in elementary school for 4 years, and I was intrigued by the technology that my students had access to - and I saw lots of room for improvement! I started learning on my own and fell in love with coding. I am currently going through a 6 month bootcamp, and blogging as I go!"
+    },
+    {
+        "id": "c297ef7d-8b96-459f-9a1c-8e71ac8d837a",
+        "title": "Time for backend!",
+        "date": "Wednesday. November 7, 2018",
+        "content": "I am adding this post using the backend of my project! This is so cool! In the past few months I have learned so much about the internet. I used to think that the internet was a mysterious and magical place. Now I see that the internet is the opposite of magic! It is very prescribed, and if one prescribed part is missing, everything falls apart! Not magic, but very cool :)"
+    }
+]
