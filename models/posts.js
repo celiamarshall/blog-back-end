@@ -27,17 +27,17 @@ function create({ title, date, content }) {
   const errors = []
 
   if (!title || title.length > 50) {
-    errors.push('Title is required or title is longer than 50 characters')
+    errors.push('Title is missin or title is longer than 50 characters')
     return { errors }
   }
 
   if (!date) {
-    errors.push('date is required')
+    errors.push('Date is required')
     return { errors }
   }
 
   if (!content) {
-    errors.push('content is required')
+    errors.push('Content is required')
     return { errors }
   }
 
